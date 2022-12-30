@@ -28,7 +28,7 @@ struct ContentView: View {
                     Button(action: {
                         print("Tapped on Choice 1")
                         }, label: {
-                            Text("Button")
+                            Text("Change")
                         })
                 }
             }
